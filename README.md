@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Danzfyz.</p>
+<p align="left">My name is Danzfyz. I am a creator who develops WhatsApp and Telegram bots using the Node.js programming language, as well as a REST API developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bots (and sometimes bugs) since 2020<br>📚 Currently exploring advanced Node.js, API development, and automation<br>🎯 Goals: Build smarter, faster, and more reliable WhatsApp & Telegram bots<br>🎲 Fun fact: I spend more time debugging than coding — and I kinda enjoy it</p>
 
 ###
 
